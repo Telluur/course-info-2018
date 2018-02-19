@@ -12,6 +12,11 @@ Even groups do "mutation testing", odd groups do "fuzzing":
 * Fuzzing, see 
    * [assignment](https://github.com/TUDelft-CS4110-2018/Fuzzing/blob/master/Assignment1.md)
    * [evaluation sheet](https://docs.google.com/forms/d/e/1FAIpQLSe_GmECE7VA1GfkXsf-GBXq9PHSvJcS7VLE2sa77YzAzYODbA/viewform?usp=sf_link)
-   
-Once the assignments have been handed in, you will peer review them using the evaluation sheet. More info to come!
-How to hand in will be announced here!
+
+#### Uploading
+Drop your pdf file containing the 4 page description [here](https://www.dropbox.com/request/6NcCegY0dnma3EGkm9BB)
+**Important** Your filename should contain your group ID. Example: 12.pdf. 
+
+#### Deadline: March 12th, 23:59
+
+#### Details on peer evaluation will be announced later
