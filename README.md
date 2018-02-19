@@ -10,4 +10,5 @@ Subscribe to the Slack channel with your TU Delft or TU Twente email address her
 * Fuzzing, see 
    * [assignment](https://github.com/TUDelft-CS4110-2018/Fuzzing/blob/master/Assignment1.md)
    * [evaluation sheet](https://docs.google.com/forms/d/e/1FAIpQLSe_GmECE7VA1GfkXsf-GBXq9PHSvJcS7VLE2sa77YzAzYODbA/viewform?usp=sf_link)
+   
 Once the assignments have been handed in, you will peer review them using the evaluation sheet. More info to come!
