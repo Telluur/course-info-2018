@@ -20,3 +20,10 @@ Drop your pdf file containing the 4 page description [here](https://www.dropbox.
 #### Deadline: March 12th, 23:59
 
 #### Details on peer evaluation will be announced later
+
+
+### Assignment 2
+
+* Capture replay testing, see
+   * [assignment](https://github.com/TUDelft-CS4110-2018/CaptureReplayTesting)
+   * evaluation sheet
