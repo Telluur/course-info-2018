@@ -19,11 +19,26 @@ Drop your pdf file containing the 4 page description [here](https://www.dropbox.
 
 #### Deadline: March 12th, 23:59
 
-#### Details on peer evaluation will be announced later
-
+#### Peer review
+- Have a look here at the reviewing scheme: https://github.com/TUDelft-CS4110-2018/course-info-2018/blob/master/Assignment1-reviewing.md
+- Look at the number at the start of the row where your name is listed and read/evaluate/review the paper. 
+- Use the evaluation form associated with the assignment to review the assignment.
+- Each students has to review ~2 papers, each paper will have 3 to 4 reviews.
+- Did you work on mutation testing? Now you have to review the fuzzing assignment (or vice versa).
+--> **Deadline March 19th, 23:59
 
 ### Assignment 2
 
+Odd groups do "capture replay testing", odd groups do "xxx":
 * Capture replay testing, see
    * [assignment](https://github.com/TUDelft-CS4110-2018/CaptureReplayTesting)
    * evaluation sheet
+* 
+   
+#### Uploading
+Drop your pdf file containing the 4 page description [here](https://www.dropbox.com/request/6NcCegY0dnma3EGkm9BB)
+**Important** Your filename should contain your group ID. Example: 12.pdf. 
+
+### Deadline: March 30th, 23:59
+
+#### Details on peer evaluation will be announced later
