@@ -26,7 +26,7 @@ Drop your pdf file containing the 4 page description [here](https://www.dropbox.
 - Use the evaluation form associated with the assignment to review the assignment.
 - Each students has to review ~2 papers, each paper will have 3 to 4 reviews.
 - Did you work on mutation testing? Now you have to review the fuzzing assignment (or vice versa).
---> **Deadline March 19th, 23:59
+--> **Deadline March 19th, 23:59**
 
 After the peer review, we will cross-check the reviews and give back the grade and feedback to all groups. If you disagree, send a private message to Sicco/Andy on Slack.
 
