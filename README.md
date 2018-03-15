@@ -32,7 +32,7 @@ After the peer review, we will cross-check the reviews and give back the grade a
 
 ### Assignment 2
 
-Odd groups do "capture replay testing", odd groups do "Concolic and learning":
+Odd groups do "capture replay testing", even groups do "Concolic and learning":
 * Capture replay testing, see
    * [assignment](https://github.com/TUDelft-CS4110-2018/CaptureReplayTesting)
    * evaluation sheet
