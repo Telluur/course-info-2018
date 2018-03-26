@@ -35,10 +35,10 @@ After the peer review, we will cross-check the reviews and give back the grade a
 Odd groups do "capture replay testing", even groups do "Concolic and learning":
 * Capture replay testing, see
    * [assignment](https://github.com/TUDelft-CS4110-2018/CaptureReplayTesting)
-   * evaluation sheet
+   * [evaluation sheet](https://docs.google.com/forms/d/e/1FAIpQLSc4mUDkI-KoalXaMLOoaqv4-irnPRuvX7PzafuPo-EPqykaHQ/viewform?usp=sf_link)
 * Concolic and learning, see
    * [assignment](https://github.com/TUDelft-CS4110-2018/Learning/blob/master/Assignment2.md)
-   * evaluation sheet
+   * [evaluation sheet](https://docs.google.com/forms/d/e/1FAIpQLSeQkFAbHBHbcnaFpxzPNx6XFPhqPkXtTQY38JDrZAEtajo4ag/viewform?usp=sf_link)
    
 #### Uploading
 Drop your pdf file containing the 4 page description [here](https://www.dropbox.com/request/Rf6eOMkqcwb8fFzrEoz3)
